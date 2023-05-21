@@ -7,8 +7,8 @@
         Currently, I am studying computer science. I am obsessed with everything related to cyber security. 🔐 <br>
         Feel free to check out my website to learn more.<br>
     </i><br>
-    <a href="https://www.zensilva.github.io">
-        <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github" alt="Github">
+    <a href="https://zensilva.github.io/">
+        <img src="http://img.shields.io/badge/Github-black?style=flat-square&logo=Github" alt="Github">
     </a>
   <!---
     <a href="https://www.kaggle.com/wervlad">
