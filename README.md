@@ -1,6 +1,6 @@
 <h1 align="center">Zen K. Silva 🌇</h1>
 <p align="center">
-  <b>Currently, I am studying computer science. I am obsessed with everything related to cyber security. 🔐 <br> Feel free to check out my website to learn more.
+  <b>Associates in computer science w/ concentration on information security++. I am obsessed with everything related to cyber security. 🔐 <br> Feel free to check out my website to learn more.
 </p>
 <i>
   <p align="center"> &darr; <br>
@@ -106,6 +106,10 @@
     <img src="https://komarev.com/ghpvc/?username=zensilva&color=blue&style=flat" alt="Profile Views">
   </a>
 </p>
+<img src="https://www.tradingview.com/x/VeoeJKM9/" alt="TradingView Chart" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 1024px; height: auto;" />
+<hr>
+<li><code><b>HIGH</code> TIME FRAME:</b> <i>- https://www.tradingview.com/x/b5AX53jZ/</i></li>
+<li><code><b>SMOL</code> TIME FRAME:</b> <i>- https://www.tradingview.com/x/VeoeJKM9/</i></li>
   
 <!--
 **zensilva/zensilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
